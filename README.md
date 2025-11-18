@@ -148,5 +148,4 @@ El programa se compone de:
     ------- ms
     ------- s
     ------- m
-    0.150 s
-    0.002 min
+
